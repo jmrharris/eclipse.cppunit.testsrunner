@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/net.selfip.gcdev.cdt.testsrunner.cppunit.feature_0.1.2.jar" id="net.selfip.gcdev.cdt.testsrunner.cppunit.feature" version="0.1.2">
+      <category name="Programming Languages"/>
+   </feature>
+   <category-def name="Programming Languages" label="Programming Languages"/>
+</site>
